@@ -1,0 +1,164 @@
+body{
+    background-image: url(
+        "https://wallpapercave.com/wp/wp2003945.jpg");
+        
+                background-position: center center;
+                background-attachment: fixed;
+                background-repeat: no-repeat;
+                background-size: cover;
+            
+        height:50px;
+        height:300px;
+        margin:70px auto;
+        color:whitesmoke;
+        background-color:black;
+}
+header{
+    color:wheat;
+    text-align: left;
+    font-size: 40px;
+}
+.carousel{
+    border: 5px;
+    padding: 10px;
+    border-color:black;
+    position: absolute;
+    top: 500px;
+	left: -200px;
+}
+nav {
+  background-color: #333;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  flex: 1;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 1rem;
+  display: block;
+}
+
+nav a:hover {
+  background-color: #555;
+}
+show{
+	width: 250px;
+	height: 400px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 80;
+	top: 70;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+}
+img{
+	border-radius: 25px;
+}
+button{
+	border-radius: 25px;
+	background-color: cornflowerblue;
+}
+show2{
+	width: 250px;
+	height: 400px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 380;
+	top: 70;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+}
+show3{
+	width: 250px;
+	height: 400px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 680;
+	top: 70;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+}
+show4{
+	width: 250px;
+	height: 400px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 980;
+	top: 70;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+}
+show5{
+	width: 250px;
+	height: 400px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 1280;
+	top: 70;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+}
+marquee{
+	font-size: 16px;
+	color: white;
+	background-color:grey;
+}
+purchase{
+	width: 390px;
+	height: 520px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 1190;
+	top: 660;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+	font-size: 24;
+	color: white;
+}
