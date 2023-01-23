@@ -5,8 +5,7 @@ body{
                 background-position: center center;
                 background-attachment: fixed;
                 background-repeat: no-repeat;
-                background-size: cover;
-            
+				background-size: cover;
         height:50px;
         height:300px;
         margin:70px auto;
@@ -23,7 +22,7 @@ header{
     padding: 10px;
     border-color:black;
     position: absolute;
-    top: 500px;
+    top: 900px;
 	left: -200px;
 }
 nav {
@@ -70,6 +69,7 @@ show{
 }
 img{
 	border-radius: 25px;
+	 justify-content: center;
 }
 button{
 	border-radius: 25px;
@@ -155,10 +155,178 @@ purchase{
 	position: absolute;
 	border-radius: 10;
 	left: 1190;
-	top: 660;
+	top: 1060;
 	text-align:center;
 	color: white;
 	margin-top: 20px;
 	font-size: 24;
 	color: white;
 }
+a{
+	font-size: 32;
+	color: white;
+	text-align: left;
+}
+right{
+	 position: absolute;
+	 left: 1280;
+	  border: 5px;
+    border-color:black;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  font-size: 15;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+   font-size: 15;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+  font-size: 15;
+}
+.screen{
+	background-color: white;
+	width: 1000;
+	height: 1000;
+}
+style{
+	background-color: white;
+	width: 1000;
+	height: 1000;
+}
+map{
+	background-color: black;
+	height:500px;
+	width:700px;
+	position: absolute;
+	border-radius: 10;
+	left: 340;
+	top: -20;
+	  background-image: url(
+        "https://attachments.office.net/owa/mthomas697%40fareham.ac.uk/service.svc/s/GetAttachmentThumbnail?id=AAMkADVlODVjYzA1LTZiM2QtNDE1Yi1iYTA3LWVmYTE2OTY2NTI3NQBGAAAAAACBkqpW7C0QRYsTLMZu3kj4BwCgfNfNDcF%2FTrCof6GOpKDRAAAAAAEPAACgfNfNDcF%2FTrCof6GOpKDRAABe%2BYeRAAABEgAQAFeX1twIybNEpUgYlN7cKGw%3D&thumbnailType=2&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IkQ4OThGN0RDMjk2ODQ1MDk1RUUwREZGQ0MzODBBOTM5NjUwNDNFNjQiLCJ0eXAiOiJKV1QiLCJ4NXQiOiIySmozM0Nsb1JRbGU0Tl84dzRDcE9XVUVQbVEifQ.eyJvcmlnaW4iOiJodHRwczovL291dGxvb2sub2ZmaWNlMzY1LmNvbSIsInVjIjoiZTY2YTVlMWYxODEyNDBiZGI5MjU4OTAwNWU0NWExMWMiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwidmVyIjoiRXhjaGFuZ2UuQ2FsbGJhY2suVjEiLCJhcHBjdHhzZW5kZXIiOiJPd2FEb3dubG9hZEAxYjZmZTY4My1kYTg2LTRiYTMtYmVlYS0zNjNjN2YxNTI1YTAiLCJpc3NyaW5nIjoiV1ciLCJhcHBjdHgiOiJ7XCJtc2V4Y2hwcm90XCI6XCJvd2FcIixcInB1aWRcIjpcIjExNTM4MDExMjMwNzE0MjAwMjJcIixcInNjb3BlXCI6XCJPd2FEb3dubG9hZFwiLFwib2lkXCI6XCI4ZWE4Njc2NS1iMDJiLTQ3MjgtOWZhMS05MDlkZWEyYmI0ZTRcIixcInByaW1hcnlzaWRcIjpcIlMtMS01LTIxLTEwMzM1MTYwNjUtMTc0MjI4MDkwLTU3NDIyMjAzMi00Njc3MjkxNVwifSIsIm5iZiI6MTY3NDUwODA5OCwiZXhwIjoxNjc0NTA4Njk4LCJpc3MiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDBAMWI2ZmU2ODMtZGE4Ni00YmEzLWJlZWEtMzYzYzdmMTUyNWEwIiwiYXVkIjoiMDAwMDAwMDItMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL2F0dGFjaG1lbnRzLm9mZmljZS5uZXRAMWI2ZmU2ODMtZGE4Ni00YmEzLWJlZWEtMzYzYzdmMTUyNWEwIiwiaGFwcCI6Im93YSJ9.I9DcMtcNhohJaLY9nzeVtYQVf3-46yL2Sqr_bL7qIh2GeERghfqODw6ilkpfSXu504iUpnxe0Hfv3kYQYlr01Mb-dJZ3HlCV5eYOzH8J_UVdWFXi4Z6sjt-IE9qopnEXhfThtBeSRLOgWCaHHQ9jydJMZmyovxhMalka3lQBrfd64Z2_xogH3S_XffhHKOF1wp2MkpIvWYhowxpz98aY5M8EocWEpjOgHNezCKtFg2_Y8cNYsIqjIOGk6ELwKZ36e5kd9KeZLPiWPhR8HBUG2T-_aFef8KEHYkt6-GcnZnORkebVE6NMJ7BoY1wIzGJaAnLCT48bXWDbStCV6H8n1A&X-OWA-CANARY=ZLxbIU5wKka1tsOXSlMRSdDTWRCG_doYfnuu0xWDA3aslRF9AuOGR6d_H4PcmGPxoKx2eidoO1Q.&owa=outlook.office365.com&scriptVer=20230109005.03&animation=true");
+        
+                background-position: center center;
+                background-attachment: fixed;
+                background-repeat: no-repeat;
+				background-size: cover;
+    height:700px;
+    width:1200px;
+    margin:70px auto;
+    color:whitesmoke;
+    background-color:black;
+	border: 15px;
+    padding: 10px;
+    border-color:black;
+}
+info{
+	height: 400;
+	width:250;
+	color:black;
+	background-color: whitesmoke;
+	position: absolute;
+	top: 200;
+	left: 50;
+	border: 10px;
+	border-color: black;
+	border-radius: 25px;
+	padding: 10px;
+	font-size: 15px;
+}
+show6{
+	width: 250px;
+	height: 400px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 80;
+	top: 500;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+}
+show7{
+	width: 250px;
+	height: 400px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 380;
+	top: 500;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+}
+show8{
+	width: 250px;
+	height: 400px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 680;
+	top: 500;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+}
+show9{
+	width: 250px;
+	height: 400px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 980;
+	top: 500;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+}
+show10{
+	width: 250px;
+	height: 400px;
+	background-color: #4D4C5C;
+	border: 5px;
+	border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+	position: absolute;
+	border-radius: 10;
+	left: 1280;
+	top: 500;
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+}
+	
+	
